@@ -1,0 +1,193 @@
+{
+    "AI Research Scientist": {
+        "salary_range": "$120,000 - $200,000",
+        "growth_forecast": "High demand, significant growth",
+        "companies_hiring": ["Google", "Meta", "Microsoft", "IBM", "Amazon", "NVIDIA", "DeepMind", "OpenAI", "Anthropic"]
+    },
+    "Machine Learning Engineer": {
+        "salary_range": "$130,000 - $180,000",
+        "growth_forecast": "Very high demand, rapid growth (e.g., 40% by 2027)",
+        "companies_hiring": ["Google", "Meta", "Amazon", "Microsoft", "Apple", "Netflix", "NVIDIA", "IBM", "OpenAI", "Anthropic"]
+    },
+    "Deep Learning Engineer": {
+        "salary_range": "$140,000 - $220,000",
+        "growth_forecast": "Extremely high demand, rapid growth",
+        "companies_hiring": ["Google", "Meta", "NVIDIA", "DeepMind", "OpenAI", "Anthropic", "Microsoft", "Amazon"]
+    },
+    "Computer Vision Engineer": {
+        "salary_range": "$120,000 - $190,000",
+        "growth_forecast": "High demand, strong growth",
+        "companies_hiring": ["Google", "Meta", "Amazon", "Apple", "Microsoft", "NVIDIA", "Tesla", "Waymo", "Intel"]
+    },
+    "NLP Engineer": {
+        "salary_range": "$125,000 - $195,000",
+        "growth_forecast": "High demand, strong growth",
+        "companies_hiring": ["Google", "Meta", "Amazon", "Microsoft", "IBM", "OpenAI", "Anthropic", "Salesforce"]
+    },
+    "Reinforcement Learning Engineer": {
+        "salary_range": "$135,000 - $210,000",
+        "growth_forecast": "Growing demand, specialized field",
+        "companies_hiring": ["DeepMind", "OpenAI", "Google", "Meta", "Tesla", "NVIDIA"]
+    },
+    "AI Algorithm Engineer": {
+        "salary_range": "$120,000 - $190,000",
+        "growth_forecast": "High demand, steady growth",
+        "companies_hiring": ["Google", "Meta", "Microsoft", "IBM", "Amazon", "NVIDIA", "Qualcomm"]
+    },
+    "Data Scientist": {
+        "salary_range": "$110,000 - $170,000",
+        "growth_forecast": "Very high demand, rapid growth (e.g., 35% by 2032)",
+        "companies_hiring": ["Google", "Meta", "Amazon", "Microsoft", "IBM", "Netflix", "Spotify", "LinkedIn"]
+    },
+    "Data Engineer": {
+        "salary_range": "$115,000 - $175,000",
+        "growth_forecast": "Very high demand, rapid growth (e.g., 38% by 2032)",
+        "companies_hiring": ["Google", "Meta", "Amazon", "Microsoft", "IBM", "Netflix", "Spotify", "LinkedIn"]
+    },
+    "Big Data Engineer": {
+        "salary_range": "$120,000 - $180,000",
+        "growth_forecast": "High demand, strong growth",
+        "companies_hiring": ["Google", "Meta", "Amazon", "Microsoft", "IBM", "Cloudera", "Hortonworks"]
+    },
+    "ML Ops Engineer": {
+        "salary_range": "$130,000 - $200,000",
+        "growth_forecast": "Extremely high demand, rapid growth",
+        "companies_hiring": ["Google", "Meta", "Amazon", "Microsoft", "IBM", "Netflix", "Spotify", "LinkedIn"]
+    },
+    "AI Data Annotator / Trainer": {
+        "salary_range": "$40,000 - $70,000",
+        "growth_forecast": "Growing demand, entry-level friendly",
+        "companies_hiring": ["Scale AI", "Appen", "Remotasks", "Google", "Amazon"]
+    },
+    "AI Product Analyst": {
+        "salary_range": "$90,000 - $150,000",
+        "growth_forecast": "High demand, strong growth",
+        "companies_hiring": ["Google", "Meta", "Amazon", "Microsoft", "IBM", "Salesforce"]
+    },
+    "Behavioral Data Analyst": {
+        "salary_range": "$80,000 - $130,000",
+        "growth_forecast": "Growing demand, cross-disciplinary",
+        "companies_hiring": ["Google", "Meta", "Amazon", "Netflix", "Spotify", "LinkedIn"]
+    },
+    "AI Software Developer": {
+        "salary_range": "$100,000 - $160,000",
+        "growth_forecast": "Very high demand, rapid growth",
+        "companies_hiring": ["Google", "Meta", "Amazon", "Microsoft", "IBM", "Apple", "Salesforce"]
+    },
+    "Robotics Engineer (with AI focus)": {
+        "salary_range": "$110,000 - $180,000",
+        "growth_forecast": "High demand, strong growth",
+        "companies_hiring": ["Boston Dynamics", "Tesla", "Amazon Robotics", "Google", "FANUC"]
+    },
+    "Autonomous Systems Engineer": {
+        "salary_range": "$120,000 - $190,000",
+        "growth_forecast": "High demand, strong growth",
+        "companies_hiring": ["Tesla", "Waymo", "Cruise", "Aurora", "Google", "Amazon"]
+    },
+    "Cognitive Computing Engineer": {
+        "salary_range": "$115,000 - $185,000",
+        "growth_forecast": "Growing demand, specialized field",
+        "companies_hiring": ["IBM", "Google", "Microsoft", "Amazon"]
+    },
+    "AI Project Manager": {
+        "salary_range": "$100,000 - $160,000",
+        "growth_forecast": "High demand, strong growth",
+        "companies_hiring": ["Google", "Meta", "Amazon", "Microsoft", "IBM", "Accenture", "Deloitte"]
+    },
+    "AI Product Manager": {
+        "salary_range": "$120,000 - $180,000",
+        "growth_forecast": "Very high demand, rapid growth",
+        "companies_hiring": ["Google", "Meta", "Amazon", "Microsoft", "IBM", "Salesforce"]
+    },
+    "AI Solutions Architect": {
+        "salary_range": "$130,000 - $200,000",
+        "growth_forecast": "Extremely high demand, rapid growth",
+        "companies_hiring": ["Amazon Web Services (AWS)", "Microsoft Azure", "Google Cloud Platform (GCP)", "IBM", "Accenture", "Deloitte"]
+    },
+    "Chief AI Officer (CAIO)": {
+        "salary_range": "$200,000 - $500,000+",
+        "growth_forecast": "Rapidly emerging, high demand for leadership",
+        "companies_hiring": ["Large enterprises across all sectors (e.g., GE HealthCare, UnitedHealth Group)", "Tech companies", "Consulting firms"]
+    },
+    "Responsible AI Officer / AI Ethics Manager": {
+        "salary_range": "$95,000 - $180,000",
+        "growth_forecast": "Emerging and growing demand due to regulations and ethical concerns",
+        "companies_hiring": ["Google", "Meta", "Microsoft", "IBM", "PwC", "Accenture", "Deloitte", "Sony Group Corporation"]
+    },
+    "AI Cybersecurity Analyst": {
+        "salary_range": "$90,000 - $150,000",
+        "growth_forecast": "High demand, strong growth (e.g., 33% by 2033)",
+        "companies_hiring": ["IBM", "Microsoft", "Google", "Palo Alto Networks", "CrowdStrike", "Booz Allen Hamilton"]
+    },
+    "AI in Healthcare Specialist": {
+        "salary_range": "$90,000 - $160,000",
+        "growth_forecast": "High demand, significant growth (e.g., 40% increase in job postings)",
+        "companies_hiring": ["Philips", "GE Healthcare", "Siemens Healthineers", "IBM Watson Health", "IQVIA", "Hippocratic AI"]
+    },
+    "AI in Finance Analyst": {
+        "salary_range": "$80,000 - $150,000",
+        "growth_forecast": "Growing demand, but some roles may be impacted by automation",
+        "companies_hiring": ["JPMorgan Chase", "Goldman Sachs", "Morgan Stanley", "BlackRock", "Fidelity", "C3.ai"]
+    },
+    "AI in Education Consultant": {
+        "salary_range": "$70,000 - $140,000",
+        "growth_forecast": "Growing demand, especially for integrating AI into learning",
+        "companies_hiring": ["Coursera", "edX", "Udemy", "Chegg", "EY", "IBM"]
+    },
+    "AI in Manufacturing Engineer": {
+        "salary_range": "$90,000 - $160,000",
+        "growth_forecast": "Growing demand, driven by automation and smart factories",
+        "companies_hiring": ["Siemens", "Bosch", "General Electric", "Honeywell", "FANUC", "OpenAI (Product Manufacturing Engineer)", "Google (Quantum AI)"]
+    },
+    "AI Policy Advisor / Strategist": {
+        "salary_range": "$80,000 - $150,000",
+        "growth_forecast": "Emerging and growing demand due to regulatory landscape",
+        "companies_hiring": ["Government agencies", "Think tanks", "Tech companies (e.g., Meta)", "Consulting firms (e.g., EY)", "Longtermresilience.org"]
+    },
+    "AI Infrastructure Engineer (GPU/TPU systems)": {
+        "salary_range": "$120,000 - $200,000",
+        "growth_forecast": "Extremely high demand, rapid growth",
+        "companies_hiring": ["Google", "NVIDIA", "Meta", "Microsoft", "Amazon Web Services (AWS)", "OpenAI", "Anthropic"]
+    },
+    "AI Systems Administrator": {
+        "salary_range": "$70,000 - $120,000",
+        "growth_forecast": "Stable demand, evolving with AI integration",
+        "companies_hiring": ["Google", "Microsoft", "IBM", "Amazon", "Various tech companies and enterprises"]
+    },
+    "Edge AI Developer": {
+        "salary_range": "$100,000 - $170,000",
+        "growth_forecast": "High demand, rapid growth due to IoT and real-time processing",
+        "companies_hiring": ["Qualcomm", "NVIDIA", "Intel", "Google", "Amazon", "Various IoT companies"]
+    },
+    "Embedded AI Engineer": {
+        "salary_range": "$110,000 - $180,000",
+        "growth_forecast": "High demand, strong growth",
+        "companies_hiring": ["Qualcomm", "NVIDIA", "Intel", "Samsung", "Apple", "Meta"]
+    },
+    "Prompt Engineer": {
+        "salary_range": "$90,000 - $150,000",
+        "growth_forecast": "Rapidly emerging, but job title may evolve",
+        "companies_hiring": ["Anthropic", "OpenAI", "Google", "Microsoft", "Various AI startups"]
+    },
+    "Generative AI Specialist": {
+        "salary_range": "$100,000 - $180,000",
+        "growth_forecast": "Extremely high demand, rapid growth",
+        "companies_hiring": ["OpenAI", "Anthropic", "Google", "Meta", "Microsoft", "Stability AI"]
+    },
+    "AI Content Creator": {
+        "salary_range": "$50,000 - $100,000",
+        "growth_forecast": "Growing demand, but also potential for automation",
+        "companies_hiring": ["Various media companies", "Marketing agencies", "Content platforms", "Upwork", "Amazon"]
+    },
+    "Synthetic Media Developer": {
+        "salary_range": "$90,000 - $160,000",
+        "growth_forecast": "Emerging and growing demand",
+        "companies_hiring": ["Meta", "Google", "NVIDIA", "Adobe", "Various entertainment and media companies"]
+    },
+    "Conversational AI Designer": {
+        "salary_range": "$80,000 - $140,000",
+        "growth_forecast": "High demand, strong growth",
+        "companies_hiring": ["Google", "Amazon (Alexa)", "Microsoft (Cortana)", "IBM (Watson)", "Salesforce", "Nuance Communications"]
+    }
+}
+
